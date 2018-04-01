@@ -3,6 +3,8 @@
   "description": "Testing Yii2 extension creation",
   "type": "helloType",
   "license": "proprietary",
+  "minimum-stability": "dev",
+  "prefer-stable": true,
   "authors": [
     {
       "name": "Asim Raffaqat",
