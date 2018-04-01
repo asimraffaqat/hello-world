@@ -1,0 +1,18 @@
+{
+  "name": "asimraff/hello-world",
+  "description": "Testing Yii2 extension creation",
+  "type": "helloType",
+  "license": "MIT Custom License",
+  "authors": [
+    {
+      "name": "Asim Raffaqat",
+      "email": "asimraffaqat8@gmail.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "asimraff\\Hello\\World": "src"
+    }
+  }
+}
