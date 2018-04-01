@@ -2,7 +2,7 @@
   "name": "asimraff/hello-world",
   "description": "Testing Yii2 extension creation",
   "type": "helloType",
-  "license": "MIT Custom License",
+  "license": "proprietary",
   "authors": [
     {
       "name": "Asim Raffaqat",
@@ -12,7 +12,7 @@
   "require": {},
   "autoload": {
     "psr-4": {
-      "asimraff\\Hello\\World": "src"
+      "asimraff\\Hello\\World\\": "src"
     }
   }
 }
